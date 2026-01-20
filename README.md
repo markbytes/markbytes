@@ -1,8 +1,7 @@
-##💻🇵🇭
+##💻 Mark Salvador
 
 <!--
-**markbytes/markbytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**'Tech & Visual Creator (Developer / Filmmaker / Designer)'**
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
