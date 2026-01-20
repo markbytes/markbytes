@@ -1,4 +1,4 @@
-##💻 Mark Salvador
+💻 Mark Salvador
 
 <!--
 **'Tech & Visual Creator (Developer / Filmmaker / Designer)'**
