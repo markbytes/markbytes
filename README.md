@@ -1,6 +1,5 @@
 💻 Mark Salvador
 
-<!--
 **'Tech & Visual Creator (Developer / Filmmaker / Designer)'**
 Here are some ideas to get you started:
 
