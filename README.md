@@ -5,21 +5,21 @@
 I turn ideas into <b>beautiful, functional digital experiences</b>.
 </p>
 
----
+--
 
 ## 🔥 Skills & Expertise
 💻 Web Development  
 🎨 UI/UX & Graphic Design  
 🎬 Video Editing & Motion Graphics  
 
----
+--
 
 ## 🛠 Tools I Use
 HTML • CSS • JavaScript • React • Node  
 Figma • Photoshop • Illustrator  
 Premiere Pro • After Effects  
 
----
+--
 
 ## 🌟 Why Hire Me?
 ✔ Strong design sense + clean code  
