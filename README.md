@@ -1,27 +1,50 @@
-💻 Mark Salvador
+<h1 align="center">🚀 Mark Salvador</h1>
+<h3 align="center">Web Developer • Web Designer • Creative Technologist</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
+I turn ideas into <b>beautiful, functional digital experiences</b>.
 </p>
 
+---
+
+## 🔥 Skills & Expertise
+💻 Web Development  
+🎨 UI/UX & Graphic Design  
+🎬 Video Editing & Motion Graphics  
+
+---
+
+## 🛠 Tools I Use
+HTML • CSS • JavaScript • React • Node  
+Figma • Photoshop • Illustrator  
+Premiere Pro • After Effects  
+
+---
+
+## 🌟 Why Hire Me?
+✔ Strong design sense + clean code  
+✔ Focus on performance & UX  
+✔ Clear communication  
+✔ Reliable & deadline-driven  
+
+---
+
+## 📌 Projects Worth Checking
+➡️ Portfolio Website  
+➡️ UI/UX Case Studies  
+➡️ Creative Media Projects  
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600"/>
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=markbytes&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markbytes&layout=compact&theme=tokyonight" />
 </p>
 
+---
 
-
-**'Tech & Visual Creator (Developer / Filmmaker / Designer)'**
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Let's Work Together
+📧 Email: your@email.com  
+🌐 Portfolio: yoursite.com  
+💼 LinkedIn: linkedin.com/in/yourname  
