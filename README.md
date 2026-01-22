@@ -4,6 +4,14 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600"/>
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600"/>
+</p>
+
+
 
 **'Tech & Visual Creator (Developer / Filmmaker / Designer)'**
 Here are some ideas to get you started:
